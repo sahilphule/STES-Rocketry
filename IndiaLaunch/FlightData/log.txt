@@ -1,0 +1,41 @@
+
+
+
+
+Pressure(Pa),Altitude(ft),Temperature(C),Acceleration_x(m/s2),Acceleration_y(m/s2),Acceleration_z(m/s2),Rotation_x(deg),Rotation_y(deg),Rotation_z(deg),Latitude(deg),Longitude(deg)
+
+BMP initialised successfully!
+
+MPU initialised successfully!
+
+
+
+
+
+Pressure(Pa),Altitude(ft),Temperature(C),Acceleration_x(m/s2),Acceleration_y(m/s2),Acceleration_z(m/s2),Rotation_x(deg),Rotation_y(deg),Rotation_z(deg),Latitude(deg),Longitude(deg)
+
+BMP initialised successfully!
+
+MPU initialised successfully!
+
+1985.17
+3968.92
+5953.46
+7938.04
+9921.89
+11906.71
+13891.59
+15875.94
+17859.83
+19843.82
+AGL : 1984.38
+Trigger 1 triggered at : 4266.82
+Might be error, verifying trigger 2: 
+Trigger 2 triggered!
+Apogee : 4266.82
+Deploying drogue chute!
+Drogue deployed at : 4233.54
+
+Trigger 3 triggered!
+Deploying main chute!
+Main deployed at : 3479.99
